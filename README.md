@@ -118,7 +118,13 @@ Predicted Skin Disease
 ```
 
 ---
+## 📚 Documentation
 
+For a detailed explanation of the model architecture, training process, optimization techniques, and deployment workflow, see:
+
+- **[Technical Details](docs/TECHNICAL_DETAILS.md)**
+
+---
 # 📱 Supported Diseases
 
 The current model predicts the following skin conditions:
