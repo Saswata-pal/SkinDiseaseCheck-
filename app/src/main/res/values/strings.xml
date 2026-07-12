@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SkinDiseaseCheck</string>
+    <string name="about_title">SkinDiseaseCheck</string>
+
+    <string name="about_description">
+        <![CDATA[
+        SkinDiseaseCheck is an AI-based Android app that helps identify common skin conditions.<br><br>
+        Just choose an image of the affected skin area from your device\'s gallery.<br>
+        The app will display the most likely condition along with a confidence percentage.<br><br>
+        🔒 <b>Note:</b> This app does not access your camera or collect personal data.<br>
+        🔑 All image processing is done locally on your device — ensuring full privacy.<br>
+        💾 Minimal storage usage and no internet connection required after installation.<br><br>
+        👤 Developed by: Saswata<br>
+        💻 Version: 1.0<br>
+        📱 Works on Android 7.0 (API 24) and above
+        ]]>
+    </string>
+</resources>
