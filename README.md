@@ -11,9 +11,15 @@ The application performs **entirely on-device inference**, eliminating the need 
 
 # 🚀 Quick Access
 
-### 📱 Download APK
+## 📥 Download APK
 
-https://drive.google.com/drive/folders/1GC8tD4IS1KT8t7ctvfxQGaI4T6XyIFlw?usp=sharing
+The latest development build is available from the **GitHub Releases** section.
+
+➡️ https://github.com/Saswata-pal/SkinDiseaseCheck-/releases/latest
+
+> **Current Release**
+>
+> This is a **development preview** containing a **debug APK** intended for testing and demonstration purposes. A signed release APK will be provided in future stable versions.
 
 > **Installation Note**
 >
