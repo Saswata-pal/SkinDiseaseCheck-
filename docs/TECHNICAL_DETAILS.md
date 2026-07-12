@@ -4,24 +4,25 @@ This document provides an in-depth explanation of the machine learning pipeline,
 
 ---
 
-# Table of Contents
+# 📚 Table of Contents
 
-- Project Objective
-- Dataset
-- Data Preparation
-- Image Preprocessing
-- Data Augmentation
-- Model Architecture
-- Training Configuration
-- Regularization Techniques
-- Hyperparameter Optimization
-- TensorFlow Lite Conversion
-- Android Inference Pipeline
-- Supported Disease Classes
-- Model Performance
-- Technical Design Decisions
-- Current Limitations
-- Future Enhancements
+1. [Project Objective](#project-objective)
+2. [Dataset](#dataset)
+3. [Data Preparation](#data-preparation)
+4. [Image Preprocessing](#image-preprocessing)
+5. [Data Augmentation](#data-augmentation)
+6. [Model Architecture](#model-architecture)
+7. [Training Configuration](#training-configuration)
+8. [Regularization Techniques](#regularization-techniques)
+9. [Hyperparameter Optimization](#hyperparameter-optimization)
+10. [TensorFlow Lite Conversion](#tensorflow-lite-conversion)
+11. [Android Inference Pipeline](#android-inference-pipeline)
+12. [Supported Disease Classes](#supported-disease-classes)
+13. [Model Performance](#model-performance)
+14. [Technical Design Decisions](#technical-design-decisions)
+15. [Current Limitations](#current-limitations)
+16. [Future Enhancements](#future-enhancements)
+17. [Disclaimer](#disclaimer)
 
 ---
 
