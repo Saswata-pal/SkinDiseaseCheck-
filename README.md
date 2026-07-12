@@ -13,10 +13,6 @@ The application performs **entirely on-device inference**, eliminating the need 
 
 ### 📱 Download APK
 
-https://drive.google.com/file/d/1Jq_NIVFYjbTpDNYdll9_SurU2imIyQbc/view?usp=sharing
-
-### 📂 Project Resources
-
 https://drive.google.com/drive/folders/1GC8tD4IS1KT8t7ctvfxQGaI4T6XyIFlw?usp=sharing
 
 > **Installation Note**
