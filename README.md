@@ -184,7 +184,7 @@ SkinDiseaseCheck/
 
 Download the latest APK from:
 
-https://drive.google.com/file/d/1Jq_NIVFYjbTpDNYdll9_SurU2imIyQbc/view?usp=sharing
+https://github.com/Saswata-pal/SkinDiseaseCheck-/releases/latest
 
 Install the APK on an Android device and start using the application.
 
