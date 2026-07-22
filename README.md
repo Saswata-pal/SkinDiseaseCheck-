@@ -150,12 +150,12 @@ The current model predicts the following skin conditions:
 
 # 📈 Model Performance
 
-| Metric | Value |
-|---------|------:|
-| Test Accuracy | ~70% |
-| Number of Classes | 10 |
-| Input Resolution | 224 × 224 |
-| Inference Engine | TensorFlow Lite |
+| Metric            |           Value |
+|-------------------|----------------:|
+| Test Accuracy     |            ~70% |
+| Number of Classes |              10 |
+| Input Resolution  |       224 × 224 |
+| Inference Engine  | TensorFlow Lite |
 
 > Performance may vary depending on image quality and lighting conditions.
 
