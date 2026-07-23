@@ -15,7 +15,8 @@ The application performs **entirely on-device inference**, eliminating the need 
 
 The latest development build is available from the **GitHub Releases** section.
 
-➡️ https://github.com/Saswata-pal/SkinDiseaseCheck-/releases/latest
+➡️ https://github.com/Saswata-pal/SkinDisease-detection-App/releases/latest
+➡️ https://github.com/Saswata-pal/SkinDisease-detection-App/releases/download/v0.2.0/SkinDiseaseCheck-v0.2.0.apk
 
 > **Current Release**
 >
@@ -111,9 +112,6 @@ Dataset Provider:
 ```
 ismailpromus/skin-diseases-image-dataset
 ```
-
----
-
 ---
 
 # 🧠 Model Summary
@@ -229,7 +227,7 @@ SkinDiseaseCheck/
 
 Download the latest APK from:
 
-https://github.com/Saswata-pal/SkinDiseaseCheck-/releases/latest
+https://github.com/Saswata-pal/SkinDisease-detection-App/releases/latest
 
 Install the APK on an Android device and start using the application.
 
@@ -240,7 +238,7 @@ Install the APK on an Android device and start using the application.
 Clone the repository:
 
 ```bash
-git clone https://github.com/Saswata-pal/SkinDiseaseCheck-.git
+git clone https://github.com/Saswata-pal/SkinDisease-detection-App.git
 ```
 
 Open the project in Android Studio.
