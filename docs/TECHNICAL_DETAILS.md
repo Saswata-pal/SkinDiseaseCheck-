@@ -375,7 +375,7 @@ v0.2.0 addresses this at the **application layer**, using a sequence of lightwei
 # Android Inference Pipeline
 
 The Android application performs inference through the following workflow:
-
+```python
 Gallery Image
 
 ↓
@@ -417,7 +417,7 @@ flag as "Uncertain result" if below threshold
 ↓
 
 Prediction Display (label + confidence %)
-
+```
 
 All stages — including face detection and OCR — run locally on the device using bundled offline models.
 
