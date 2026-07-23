@@ -46,13 +46,11 @@ Key objectives include:
 
 # Dataset
 
-**Source**
-
-Kaggle
+**Source** :Kaggle
 
 Dataset:
 
-Skin Diseases Image Dataset
+_Skin Diseases Image Dataset_
 
 Dataset Provider:
 `
@@ -69,11 +67,11 @@ The dataset contains images belonging to multiple common skin disease categories
 
 The dataset was organized into the following directory structure:
 
-`
+```
 Dataset/
     ├── Train/
     └── Test/
-`
+```
 
 The training dataset was further divided using:
 
@@ -140,7 +138,7 @@ The deployed model is a custom Convolutional Neural Network (CNN).
 
 Architecture:
 
-```mermaid
+```python
 Input Layer
 
 ↓
@@ -297,7 +295,7 @@ Although Hyperband was evaluated, the final deployed model uses the best-perform
 After model training, the Keras model was converted into TensorFlow Lite format.
 
 Conversion pipeline:
-```mermaid
+```python
 .keras Model
 
 ↓
