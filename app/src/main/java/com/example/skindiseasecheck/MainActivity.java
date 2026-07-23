@@ -42,7 +42,7 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity {
 
     // --- Tunable thresholds ---
-    private static final float SKIN_PIXEL_RATIO_THRESHOLD = 0.08f; // min fraction of skin-toned pixels
+    private static final float SKIN_PIXEL_RATIO_THRESHOLD = 0.08f; // min fraction of skin-toned pixel
     private static final float CONFIDENCE_THRESHOLD = 0.35f;       // min model confidence to trust a label
     private static final int TEXT_BLOCK_COUNT_THRESHOLD = 3;       // min distinct text blocks to flag as screenshot/doc
     private static final int TEXT_CHAR_COUNT_THRESHOLD = 20;       // min total recognized characters to flag as screenshot/doc
